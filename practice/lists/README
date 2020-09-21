@@ -1,0 +1,19 @@
+Akanksha Dhanwal
+Feb 6 2020 Arista Networks Interview Prep
+
+
+
+list.h: header file containing Linked List class declaration as well as funcition prototype
+
+list.c: implementation of member functions
+
+main.c: driver program
+
+Makefile: a Makefile to build executable and clean up
+
+
+
+
+
+
+
